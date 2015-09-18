@@ -11,8 +11,6 @@ class Thermostat(object):
 
         Parameters
         ----------
-        ID: integer
-            unique read only system identifier
         name: string
             read-write display name
             value must be non empty
